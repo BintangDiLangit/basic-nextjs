@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <Layout pageTitle="Home Page">
       <Image src="/profile.png" width={200} height={200} alt="profile" />
-      <h1 className={styles['title-homepage']}>Welcome Prawito</h1>
+      <h1 className={styles['title-homepage']}>Welcome Bintang Miftaqul Huda</h1>
     </Layout>
   );
 }
